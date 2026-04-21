@@ -2,6 +2,8 @@
 
 A lightweight offline-first PWA to log and track daily expenses — no backend needed.
 
+🔗 **Live Demo:** https://dailymark01.netlify.app/index.html
+
 ## Features
 - Log daily expenses by category
 - Works fully offline using IndexedDB
@@ -15,7 +17,8 @@ A lightweight offline-first PWA to log and track daily expenses — no backend n
 **Type:** Progressive Web App (PWA)
 
 ## Why No Backend?
-The goal was a frictionless tool that works anywhere, anytime — no login, no server, no data leaving your device. IndexedDB handles persistence even when offline.
+The goal was a frictionless tool that works anywhere, anytime — no login, no server,
+no data leaving your device. IndexedDB handles persistence even when offline.
 
 ## PWA Setup
 - Service worker caches all assets for offline use
